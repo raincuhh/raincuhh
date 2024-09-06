@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+im ryan or @raincuhh
+
+- im currently working on a compiler that compiles a custom programming language in C++
+- im currently learning computer science in highschool
+- im looking for help in (private)
+- you can reach me through filipryanbusinessmail@gmail.com
+- ask me about anything, just dont expect me to know everything 💀
+- fun fact, i like programming, if you couldnt already guess that
+
 <!--
 **raincuhh/raincuhh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
