@@ -2,7 +2,7 @@
 
 im ryan or @raincuhh
 
-- im currently working on a compiler that compiles a custom programming language in C++
+- im currently working on a compiler that compiles a custom programming language in C++, and a Minecraft clone, because every C++ dev just neeeeds to make a minecraft clone
 - im currently learning computer science in highschool
 - im looking for help in (private)
 - you can reach me through filipryanbusinessmail@gmail.com
