@@ -1,4 +1,4 @@
-## Heyo 👋
+## yo 👋
 
 im ryan or @raincuhh
 
