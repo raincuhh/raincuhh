@@ -1,6 +1,6 @@
 ## yo 👋
 
-im ryan or @raincuhh
+im ryan || @raincuhh
 
 - im currently learning computer science in highschool
 - you can reach me through filipryanbusinessmail@gmail.com
