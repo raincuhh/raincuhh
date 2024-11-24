@@ -5,7 +5,7 @@ im ryan || @raincuhh
 - im currently learning computer science in highschool
 - you can reach me through filipryan.business@gmail.com
 - ask me about anything, just dont expect me to know everything 💀
-- view my portfolio at [portfolio-v2-pearl-tau.vercel.app]Portfolio
+- view my portfolio at portfolio-v2-pearl-tau.vercel.app
 <!--
 **raincuhh/raincuhh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
